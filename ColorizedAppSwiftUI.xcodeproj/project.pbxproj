@@ -11,6 +11,8 @@
 		FA5459BC2974364C00A3D291 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA5459BB2974364C00A3D291 /* ContentView.swift */; };
 		FA5459BE2974364E00A3D291 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FA5459BD2974364E00A3D291 /* Assets.xcassets */; };
 		FA5459C12974364E00A3D291 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FA5459C02974364E00A3D291 /* Preview Assets.xcassets */; };
+		FA5459C8297436D900A3D291 /* SlidersView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA5459C7297436D900A3D291 /* SlidersView.swift */; };
+		FA5459CA297437FD00A3D291 /* ColorBoard.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA5459C9297437FD00A3D291 /* ColorBoard.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +21,8 @@
 		FA5459BB2974364C00A3D291 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		FA5459BD2974364E00A3D291 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		FA5459C02974364E00A3D291 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		FA5459C7297436D900A3D291 /* SlidersView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SlidersView.swift; sourceTree = "<group>"; };
+		FA5459C9297437FD00A3D291 /* ColorBoard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorBoard.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +57,8 @@
 			children = (
 				FA5459B92974364C00A3D291 /* ColorizedAppSwiftUIApp.swift */,
 				FA5459BB2974364C00A3D291 /* ContentView.swift */,
+				FA5459C9297437FD00A3D291 /* ColorBoard.swift */,
+				FA5459C7297436D900A3D291 /* SlidersView.swift */,
 				FA5459BD2974364E00A3D291 /* Assets.xcassets */,
 				FA5459BF2974364E00A3D291 /* Preview Content */,
 			);
@@ -138,6 +144,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				FA5459BC2974364C00A3D291 /* ContentView.swift in Sources */,
+				FA5459C8297436D900A3D291 /* SlidersView.swift in Sources */,
+				FA5459CA297437FD00A3D291 /* ColorBoard.swift in Sources */,
 				FA5459BA2974364C00A3D291 /* ColorizedAppSwiftUIApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
